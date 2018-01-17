@@ -4,8 +4,9 @@ The project was about capturing pcap files through tcpdump tool then parse the p
 
 
 The tools were used are:
-   1- Tcpdump.
-   2- Tshark.
-   3- Nodejs.
-   4- AngularJs.
-   5- Python.
+   1- Tcpdump.                 
+   2- Tshark.              
+   3- Nodejs.              
+   4- AngularJs.                  
+   5- Python.            
+
